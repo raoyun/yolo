@@ -12,3 +12,4 @@ protobuf==3.20.1
 SQLAlchemy==1.4.36
 Werkzeug==2.1.2
 zipp==3.8.0
+PyJWT==1.6.1
