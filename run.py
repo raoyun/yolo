@@ -1,6 +1,7 @@
 # -- coding: utf-8 --
 from app import yolo
 from app.utils.log import Log
+from app import dao
 
 
 @yolo.route('/')
