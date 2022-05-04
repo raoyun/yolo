@@ -6,6 +6,7 @@ from app.controller.auth.user import auth
 # 注册蓝图
 yolo.register_blueprint(auth)
 
+
 @yolo.route('/')
 def hello_world():
     log = Log("hello world专用")
